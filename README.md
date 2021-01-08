@@ -15,3 +15,4 @@ My solutions of some of the Hackerrank challenges from various categories
 | Compute The Perplexity | Artificial-Intelligence | Medium| 10 | 10 |
 |  Digital Camera Autodetect: Day or Night | Artificial-Intelligence | Medium |  30  | 30  |
 | Language Detection| Artificial-Intelligence | Medium| 25 | 23.44 |
+| Encryption | Algorithms | Medium | 30 | 30 |
