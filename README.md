@@ -9,6 +9,7 @@ My solutions of some of the Hackerrank challenges from various categories
 |  Laptop Battery Life | Artificial-Intelligence | Easy |10  | 10  |
 | Stat-Warmup | Artificial-Intelligence | Easy |10 | 10 |
 |  Lights Out | Artificial-Intelligence | Easy | 100  | 42.66  |
+| Tron | Artificial-Intelligence | Easy | 50 | 26.91 |
 | Compute The Cross-Entropy | Artificial-Intelligence | Easy | 10 | 10 |
 | Compute The Perplexity | Artificial-Intelligence | Medium| 10 | 10 |
 |  Digital Camera Autodetect: Day or Night | Artificial-Intelligence | Medium |  30  | 30  |
