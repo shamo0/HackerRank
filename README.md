@@ -6,6 +6,7 @@ My solutions of some of the Hackerrank challenges from various categories
 |---------|------------|---------|-------|---------------|------------|
 | Birthday Cake Candles | Algorithms | Python 3| Easy | 10 | 10 |
 |  BotClean Stochastic| Artificial Intelligence | Python 3| Easy |  10 |  10   |
+| Bot Saves Princess | Artificial Intelligence | Python 3| Easy |13 |  13 |
 |  Bot saves princess - 2 | Artificial Intelligence | Python 3| Easy |17 |  17 | 
 |  Laptop Battery Life | Artificial Intelligence | Python 3| Easy |10  | 10  |
 | Stat-Warmup | Artificial Intelligence | Python 3| Easy |10 | 10 |
