@@ -5,6 +5,7 @@ My solutions of some of the Hackerrank challenges from various categories
 | Problem | Category | Language|Difficulty |Max Score | Points Earned | 
 |---------|------------|---------|-------|---------------|------------|
 | Birthday Cake Candles | Algorithms | Python 3| Easy | 10 | 10 |
+| BotClean | Artificial Intelligence |Python 3| Easy | 17 | 17.82 |
 |  BotClean Stochastic| Artificial Intelligence | Python 3| Easy |  10 |  10   |
 | Bot Saves Princess | Artificial Intelligence | Python 3| Easy |13 |  13.9 |
 |  Bot Saves Princess - 2 | Artificial Intelligence | Python 3| Easy |17 |  17 | 
