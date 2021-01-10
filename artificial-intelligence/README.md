@@ -1,4 +1,6 @@
-#Artificial Intelligence
+# Artificial Intelligence
+
+Solutions to Artificial Intelligence challenges
 
 
 | Problem | Category | Language|Difficulty |Max Score | Points Earned | 
